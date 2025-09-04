@@ -21,5 +21,6 @@ Ce projet est un site web destiné au **recrutement de chauffeurs professionnels
 2. Taper l’adresse : [https://rajoelinalison.github.io/recrutement-chauffeurs](https://rajoelinalison.github.io/recrutement-chauffeurs)
 
 ## 📬 Contact
-- 📧 Email : contact@recru.mg
-- 📱 Téléphone : +261 xx xx xxx xx
+- 📱 Téléphone : +261 38 80 659 26
+ facebook: Fabien Mihajason
+- 
