@@ -10,10 +10,6 @@ h1{
 h2{
     color: blue;
 }
-.image{
-    width: 60%;
-    border-radius: 4%;
-}
 a{
     color: blue;
 }
@@ -41,4 +37,5 @@ strong{
 .what{
     font-size: 2rem;
     color: green;
+
 }
